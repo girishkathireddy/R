@@ -1,5 +1,9 @@
 # Scatter Plot and Line Chart Using R
 
+## Technologies
+```
+R
+```
 
 ## Scatter Plot ##
 
