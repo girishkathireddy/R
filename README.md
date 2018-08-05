@@ -1,7 +1,5 @@
-Girish Kathireddy, CS 725, Fall 2017
+# Scatter Plot and Line Chart Using R
 
-Link:
-http://www.cs.odu.edu/~gkathire/cs725/CS725_VI6/README.md
 
 ## Scatter Plot ##
 
